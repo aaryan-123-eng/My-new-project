@@ -11,9 +11,6 @@
     <li>Clean and responsive UI</li>
 </ul>
 
-<h3>Live Demo</h3>
-<p> <a href="https://aaryan-123-eng.github.io/My-new-project/">Play Now</a></p>
-
 
 <h3>How to Play?</h3>
 <ol>
