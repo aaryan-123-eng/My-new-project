@@ -1,8 +1,8 @@
-<h1>⌨️ Typing Speed Test</h1>
+<h2>Typing Speed Test</h2>
 
 <p>A fun and interactive <b>Typing Speed Test</b> game built using <b>HTML, CSS, and JavaScript</b>. Test your typing skills and improve your speed!</p>
 
-<h2>🚀 Features</h2>
+<h3>Features</h3>
 <ul>
     <li>Calculates <b>Words Per Minute (WPM)</b></li>
     <li>Shows <b>Typing Accuracy</b></li>
@@ -11,13 +11,11 @@
     <li>Clean and responsive UI</li>
 </ul>
 
-<h2>🎮 Live Demo</h2>
+<h3>Live Demo</h3>
 <p>🔗 <a href="#">Play Now</a></p>
 
-<h2>📸 Screenshots</h2>
-<p><img src="screenshot.png" alt="Typing Speed Test"></p>
 
-<h2>🎯 How to Play?</h2>
+<h3>How to Play?</h3>
 <ol>
     <li><b>Start Test:</b> A sentence will appear, start typing in the input box.</li>
     <li><b>Track Progress:</b> WPM, Accuracy, and Time Left are displayed.</li>
@@ -25,14 +23,14 @@
     <li><b>Try Again:</b> Click on the <b>Restart Button</b> to start a new test.</li>
 </ol>
 
-<h2>💻 Tech Stack</h2>
+<h3>Tech Stack</h3>
 <ul>
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
 </ul>
 
-<h2>🔗 Connect with Me</h2>
+<h2>Connect with Me</h2>
 <p>
     <a href="https://instagram.com/aaryan_kamboj123">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
